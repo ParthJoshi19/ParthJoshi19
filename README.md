@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a second-year B.Tech Computer Engineering student from India<br><br>💻 I love building full-stack web apps, developer tools, and smart AI-driven systems<br><br>🧠 Passionate about Generative AI, automation, and real-time applications<br><br>🌱 Currently working on meeting automation bots, smart traffic systems, and AI-integrated PDF tools<br><br>🛠️ Tech I'm into: React, Node.js, Express, MongoDB, Python, Three.js, Flask, and more<br><br>🤝 Open to internships, collaborations, and hackathons<br><br>⚡ Fun fact: I mix tech with purpose — whether it's farming automation or bot UX design!
+🎓 I'm a third-year B.Tech Computer Engineering student from India<br><br>💻 I love building full-stack web apps, developer tools, and smart AI-driven systems<br><br>🧠 Passionate about Generative AI, automation, and real-time applications<br><br>🌱 Currently working on meeting automation bots, smart traffic systems, and AI-integrated PDF tools<br><br>🛠️ Tech I'm into: React, Node.js, Express, MongoDB, Python, Three.js, Flask, and more<br><br>🤝 Open to internships, collaborations, and hackathons<br><br>⚡ Fun fact: I mix tech with purpose — whether it's farming automation or bot UX design!
 
 
 ## 🌐 Socials:
